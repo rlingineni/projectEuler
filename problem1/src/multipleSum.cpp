@@ -2,8 +2,8 @@
 // Name        : multipleSum.cpp
 // Author      : Raviteja Lingineni
 // Version     :
-// Copyright   : CS1337.503
-// Description : Hello World in C++, Ansi-style
+// Copyright   : 
+// Description : Project Euler Problem #1 C++, Ansi-style
 //============================================================================
 
 #include <iostream>
